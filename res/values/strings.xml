@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    
+    <string name="app_name">Engineers Unit Converter</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- length strings -->
+    <string name="length">Length</string>
+    <string name="editLength1">0.0</string>
+    <string name="editLength2">0.0</string>
+    
+    <string-array name="lengthUnit">
+	    <item>meters-in</item>
+        <item>feet-mile</item>
+        <item>in-feet</item>
+        <item>mile-kilometer</item>
+    </string-array>
+    
+    
+    <!-- volume strings -->
+    <string name="volume">Volume</string>
+    <string name="editVolume1">0.0</string>
+    <string name="editVolume2">0.0</string>
+    
+    <string-array name="volumeUnit">
+	    <item>meters cubed-liters</item>
+        <item>meters cubed-feet cubed</item>
+        <item>milimeters cubed-milileters</item>
+        <item>meters cubed-gallons</item>
+        <item>oz-cups</item>
+        <item>cups-quart</item>
+        <item>quart-gallon</item>
+    </string-array>
+    
+    
+     <!-- pressure strings -->
+    <string name="pressure">Pressure</string>
+    <string name="editPressure1">0.0</string>
+    <string name="editPressure2">0.0</string>
+    
+    <string-array name="pressureUnit">
+	    <item>bars-Pa</item>
+        <item>bars-kPa</item>
+        <item>bars-atm</item>
+        <item>bars-mmHg</item>
+        <item>bars-psia</item>
+        <item>pKa-mmHg</item>
+        <item>pKa-atm</item>
+        <item>pKa-psia</item>
+        <item>atm-psia</item>
+    </string-array>
+
+</resources>
